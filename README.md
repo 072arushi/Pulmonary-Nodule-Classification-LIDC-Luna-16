@@ -1,1 +1,1 @@
-# Pulmonary-Nodule-Classification--LIDC-Luna-16
+# Pulmonary-Nodule-Classification-LIDC-Luna-16
